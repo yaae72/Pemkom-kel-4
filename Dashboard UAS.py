@@ -1,7 +1,6 @@
 
 import streamlit as st
 import numpy as np
-import scipy
 import pandas as pd
 import base64
 
